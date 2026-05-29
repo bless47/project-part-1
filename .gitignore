@@ -1,0 +1,4 @@
+# Ignore large files
+images/downloads/
+*.msi
+*.exe
